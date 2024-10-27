@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f4f4f4; 
+}
+
+h1, h2, h3 {
+    color: #333; 
+}
+
+a {
+    color: #3498db; 
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+.container {
+    max-width: 1200px; 
+    margin: auto; 
+    padding: 20px; 
+}

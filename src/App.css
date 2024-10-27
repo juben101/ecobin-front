@@ -1,0 +1,26 @@
+/* src/styles/App.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4; /* Light gray background */
+}
+
+h1, h2, h3, h4 {
+  color: #333; /* Dark gray for headings */
+}
+
+a {
+  text-decoration: none; /* Remove underline from links */
+  color: #3498db; /* Blue color for links */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+.container {
+  max-width: 1200px; /* Maximum width for main content */
+  margin: auto; /* Center the container */
+  padding: 20px; /* Padding around content */
+}
